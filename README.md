@@ -10,14 +10,6 @@ Transitioning into cybersecurity from a microbiology background, applying the sa
 - 📜 9 Google Cybersecurity certifications completed
 - 🎯 Currently building toward a Master's in Cybersecurity
 
-## What's in this repo
-
-| Folder | Contents |
-|---|---|
-| `/tryhackme` | Room write-ups and lab notes |
-
-
-
 ## Why this repo exists
 
 I'm using this space to document what I'm learning as I learn it — partly as a personal reference, partly to show a clear, ongoing record of hands-on SOC practice to anyone reviewing my work (admissions committees, hiring managers, etc.).
