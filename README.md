@@ -1,6 +1,6 @@
 # Security Operations Center 
 
-Notes, lab write-ups, and reference material from my ongoing work in Security Operations Center (SOC) fundamentals — built while training on TryHackMe.
+Notes, lab hands-on, and reference material from my ongoing work in Security Operations Center (SOC) fundamentals — built while training on TryHackMe.
 
 ## About Me
 
