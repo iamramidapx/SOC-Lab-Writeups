@@ -6,7 +6,7 @@ Notes, lab hands-on, and reference material from my ongoing work in Security Ope
 
 Transitioning into cybersecurity from a microbiology background, applying the same analytical rigor to log analysis, threat detection, and incident response.
 
-- 🏆 TryHackMe ranking: **Top 7% globally** (working toward Top 5%)
+- 🏆 TryHackMe ranking: **Top 6% globally** (working toward Top 5%)
 - 📜 9 Google Cybersecurity certifications completed
 - 🎯 Currently building toward a Master's in Cybersecurity
 
