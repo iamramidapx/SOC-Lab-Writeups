@@ -56,7 +56,7 @@ Verified proxy and firewall logs to check if the endpoint (j.garcia) attempted t
 - Sender Address: `onboarding@hrconnex.thm`
 - Malicious URL: `https://hrconnex.thm/onboarding/15400654060/j.garcia`
 
----
+--------
 
 # BTLO — Phishing Analysis (Short Summary)
 
