@@ -1,6 +1,7 @@
 # BTLO Lab: Log Analysis — Compromised WordPress
 
 **Platform:** Blue Team Labs Online (BTLO)
+
 **Skill area:** Log analysis, Incident Response (IR), Linux command-line investigation
 
 ## Scenario
@@ -18,11 +19,3 @@ using nothing but `grep`, `awk`, and `find`.
 would this specific behavior leave behind in the log?" — then feeding that
 word to `grep`. Getting the concept right matters far more than memorizing
 exact syntax.
-
-
-Quick reference for what each utility is *for*:
-- **grep** — find text inside a file (like Ctrl+F, but built for gigabyte-scale files)
-- **find** — locate files themselves (by name, path, modification time, permissions)
-- **awk** — cut out a specific column from matched lines (e.g. the IP in column 1, the User-Agent in column 6)
-- **`|` (pipe)** — chains commands, feeding one's output into the next as a filter
-- **`-i`** — case-insensitive; **`-E`** — extended regex, lets `|` mean "or" inside the pattern
