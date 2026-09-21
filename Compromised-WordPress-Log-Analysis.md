@@ -1,7 +1,5 @@
 # BTLO Lab: Log Analysis — Compromised WordPress
 
-**Platform:** Blue Team Labs Online (BTLO)
-
 **Skill area:** Log analysis, Incident Response (IR), Linux command-line investigation
 
 ## Scenario
