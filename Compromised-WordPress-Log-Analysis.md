@@ -120,3 +120,9 @@ successfully accessed and executed). If it shows `404`, it means the file
 was not found; if `403`, access was forbidden. Check the very last line of
 your command output to get your exact 3-point answer.
 
+## Key takeaways
+
+- A `.php` file appearing inside `wp-content/uploads/` is almost always a red flag — that folder should only ever hold images/documents.
+- Cross-referencing by **attacker IP** and by **file name** across the whole log is what turns isolated hits into a timeline (upload → execution → final status).
+- The generalizable skill isn't memorizing exact `grep`/`awk` syntax — it's asking "what would this behavior leave behind in the log?" and building the search from there.
+
