@@ -62,7 +62,7 @@ Verified proxy and firewall logs to check if the endpoint (j.garcia) attempted t
 
 [Challenge Link](https://blueteamlabs.online/home/challenge/phishing-analysis-f92ef500ce)
 
-## Answer Key
+## Answer 
 
 | # | Question | Answer |
 |---|---|---|
