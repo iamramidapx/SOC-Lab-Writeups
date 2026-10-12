@@ -6,7 +6,7 @@ Notes, lab write-ups, and reference material from my hands-on SOC training on Tr
 
 Transitioning into cybersecurity from a microbiology background, applying the same analytical rigor to log analysis, threat detection, and incident response.
 
-- 🎯 Currently working through the TryHackMe SOC Level 1 path, with a Master's in Cybersecurity as the next goal
+🎯 Currently working through the TryHackMe SOC Level 1 path, with a Master's in Cybersecurity as the next goal
   
 ## Lab Write-ups
 
